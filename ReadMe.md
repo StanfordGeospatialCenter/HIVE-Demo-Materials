@@ -24,3 +24,13 @@ It was decided, for the following reasons, not to use OSM as the platform for en
 3. Though there is no known evidence of the use of OSM data in confict's, the proximity of the area of interest to high confict zone's (South Sudan and it's disputed boundaries with Kenya) made it advisable to use non-public means of reconnainsance, out of an abundance of caution for the safety of the study subjects.
 
 
+Editing App:
+
+[http://stanford.maps.arcgis.com/apps/webappviewer/index.html?id=92d2e5729be04c3f9ebc5ab204fca023](http://stanford.maps.arcgis.com/apps/webappviewer/index.html?id=92d2e5729be04c3f9ebc5ab204fca023)
+
+
+Viewer with all layers, inlcuding OSM  
+
+[http://stanford.maps.arcgis.com/apps/View/index.html?appid=2a5510ddafb0482aa699c0659345e59c](http://stanford.maps.arcgis.com/apps/View/index.html?appid=2a5510ddafb0482aa699c0659345e59c)
+
+
